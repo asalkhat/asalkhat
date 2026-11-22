@@ -31,18 +31,20 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
 - Exploring software development concepts.
 - Working on personal projects and expanding my technical knowledge.
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asalkhat&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asalkhat&show_icons=true&theme=transparent&hide_border=true&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
+
+---
 
 ## 💡 A Little About Me
 
 I enjoy challenges that push me outside my comfort zone. I'm always curious about how technology works behind the scenes and excited to turn ideas into practical solutions.
-
----
 
 <p align="center">
   <i>Always learning. Always building. Always improving.</i> 🚀
