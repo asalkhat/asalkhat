@@ -6,6 +6,17 @@ I'm passionate about software development, problem-solving, and understanding ho
 
 I enjoy exploring new technologies, tackling challenging problems, and continuously improving my programming skills through building and experimenting.
 
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://instagram.com/3sem.khatib">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asalkhat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ### 🛠️ Languages & Technologies
 
 <p>
@@ -56,6 +67,10 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
 - I love turning ideas into practical solutions.
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asalkhat&style=flat&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
   **Always learning. Always building. Always improving.** 🚀
