@@ -1,15 +1,12 @@
-
 # Hey, I'm Asem! 👋
 
-🎓 Computer Engineering Student | 42 Core Student 🇯🇴
+🎓 **Computer Engineering Student | 42 Core Student** 🇯🇴
 
 I'm passionate about software development, problem-solving, and understanding how things work under the hood.
 
-I enjoy exploring new technologies, tackling challenging problems, and continuously improving my programming skills. I believe in learning by building, experimenting, and making mistakes along the way.
+I enjoy exploring new technologies, tackling challenging problems, and continuously improving my programming skills through building and experimenting.
 
----
-
-## 💻 Technologies & Languages
+### 🛠️ Languages & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,7 +14,7 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 🚀 Areas of Interest
+### 🎯 Areas of Interest
 
 - Software Engineering
 - Algorithms & Data Structures
@@ -25,33 +22,41 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
 - Systems Programming
 - Low-Level Programming
 
-## 🌱 Currently
+### 🚀 Featured Projects
 
-- Strengthening my programming fundamentals.
-- Exploring software development concepts.
-- Working on personal projects and expanding my technical knowledge.
+| Project | Description | Language |
+|---|---|---|
+| [Push_swap](https://github.com/asalkhat/Push_swap) | Stack sorting algorithms and optimization | C |
+| [GetNextLine-42](https://github.com/asalkhat/GetNextLine-42) | Reading files line by line | C |
+| [Printf-42](https://github.com/asalkhat/Printf-42) | Recreating the printf function | C |
+| [Libft-42](https://github.com/asalkhat/Libft-42) | Building a custom C library | C |
 
----
-
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asalkhat&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&rank_icon=github&number_format=long" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asalkhat&include_all_commits=true&show_icons=true&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&rank_icon=github&number_format=long" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" />
 </p>
-
-## 🔥 Contribution Streak
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asalkhat&theme=transparent&hide_border=true" />
 </p>
 
+### 🌱 Currently
+
+- Strengthening my programming fundamentals.
+- Exploring software development concepts.
+- Working on personal and 42 projects.
+- Learning by building, experimenting, and solving problems.
+
+### 💡 A Little More About Me
+
+- I enjoy challenging myself with complex problems.
+- I'm curious about what happens behind the scenes in software.
+- I love turning ideas into practical solutions.
+
 ---
 
-## 💡 A Little About Me
-
-I enjoy challenges that push me outside my comfort zone. I'm always curious about how technology works behind the scenes and excited to turn ideas into practical solutions.
-
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i> 🚀
+  **Always learning. Always building. Always improving.** 🚀
 </p>
