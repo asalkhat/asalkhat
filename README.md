@@ -22,14 +22,14 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
 - Systems Programming
 - Low-Level Programming
 
-### 🚀 Featured Projects
+### 🚀 42 Projects
 
 | Project | Description | Language |
 |---|---|---|
-| [Push_swap](https://github.com/asalkhat/Push_swap) | Stack sorting algorithms and optimization | C |
-| [GetNextLine-42](https://github.com/asalkhat/GetNextLine-42) | Reading files line by line | C |
-| [Printf-42](https://github.com/asalkhat/Printf-42) | Recreating the printf function | C |
-| [Libft-42](https://github.com/asalkhat/Libft-42) | Building a custom C library | C |
+| [Pushswap](https://github.com/asalkhat/Pushswap) | Stack sorting algorithms and optimization | C |
+| [GetNextLine](https://github.com/asalkhat/GetNextLine) | Reading files line by line | C |
+| [Printf](https://github.com/asalkhat/Printf) | Recreating the printf function | C |
+| [Libft](https://github.com/asalkhat/Libft) | Building a custom C library | C |
 
 ### 📊 GitHub Statistics
 
