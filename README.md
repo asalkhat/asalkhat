@@ -36,8 +36,14 @@ I enjoy exploring new technologies, tackling challenging problems, and continuou
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asalkhat&show_icons=true&theme=transparent&hide_border=true&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asalkhat&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&rank_icon=github&number_format=long" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalkhat&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asalkhat&theme=transparent&hide_border=true" />
 </p>
 
 ---
